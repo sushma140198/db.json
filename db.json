@@ -1,0 +1,426 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "firstName": "Chirag",
+      "lastName": "Gohel",
+      "email": "chirag94209@gmail.com",
+      "password": "Satva1213#",
+      "workspace_url": "imChiragGohel"
+    },
+    {
+      "firstName": "sush",
+      "lastName": "tiwari",
+      "email": "sush@gmail.com",
+      "password": "Sush1213#",
+      "workspace_url": "tiwari",
+      "id": 2
+    },
+    {
+      "firstName": "dfs",
+      "lastName": "dsf",
+      "email": "dfs@fg.dfg",
+      "password": "Sush1213#",
+      "workspace_url": "Sush",
+      "id": 3
+    },
+    {
+      "firstName": "asddsfbhj",
+      "lastName": "jhkjuihoklih",
+      "email": "hkjh@ghkj.dasf",
+      "password": "Sush1213#",
+      "workspace_url": "sddfasdf",
+      "id": 4
+    },
+    {
+      "firstName": "sd",
+      "lastName": "asd",
+      "email": "asd@dsf.gh",
+      "password": "Sush1213#",
+      "workspace_url": "satva",
+      "id": 5
+    },
+    {
+      "firstName": "dc",
+      "lastName": "dsscds",
+      "email": "cdc@gdc.dcdc",
+      "password": "Satva1213#",
+      "workspace_url": "fvfv",
+      "id": 6
+    },
+    {
+      "firstName": "AS",
+      "lastName": "ASD",
+      "email": "AS@SF.DSF",
+      "password": "sUSH1213#",
+      "workspace_url": "TIWARI",
+      "id": 7
+    },
+    {
+      "firstName": "dsc",
+      "lastName": "dscdsc",
+      "email": "dsc@dc.dc",
+      "password": "Satva1213#",
+      "workspace_url": "dcdc",
+      "id": 8
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "password": null,
+      "workspace_url": "dfdsf",
+      "id": 9
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "te@te.kk",
+      "password": "Nilesh@123",
+      "workspace_url": "test",
+      "id": 10
+    },
+    {
+      "firstName": "dcd",
+      "lastName": "dcdcd",
+      "email": "dc@gmail.com",
+      "password": "Satva1213#",
+      "workspace_url": "cdc",
+      "id": 11
+    },
+    {
+      "firstName": "xc",
+      "lastName": "xcxc",
+      "email": "xc@cfvg.hfg",
+      "password": "Sush1213#",
+      "workspace_url": "Test",
+      "id": 12
+    },
+    {
+      "firstName": "test1 fn",
+      "lastName": "test2 ln",
+      "email": "nilesh@test.com",
+      "password": "Nilesh123@",
+      "workspace_url": "test",
+      "id": 13
+    },
+    {
+      "firstName": "fn1",
+      "lastName": "ln1",
+      "email": "fn1.n1@gmail.com",
+      "password": "Nilesh123@",
+      "workspace_url": "test11",
+      "id": 14
+    },
+    {
+      "firstName": "fn1",
+      "lastName": "ln1",
+      "email": "fn1.ln1@gn.com",
+      "password": "Test123@",
+      "workspace_url": "test33",
+      "id": 15
+    },
+    {
+      "firstName": "ronak",
+      "lastName": "patel",
+      "email": "ronak@gmail.com",
+      "password": "Ronak@123",
+      "workspace_url": "ronak",
+      "id": 16
+    },
+    {
+      "firstName": "sushma",
+      "lastName": "tiwari",
+      "email": "sushma@gmail.com",
+      "password": "Sush1213#",
+      "workspace_url": "sushma1213",
+      "id": 17
+    },
+    {
+      "firstName": "sushma",
+      "lastName": "tiwari",
+      "email": "sushma@gmail.com",
+      "password": "Sush1213#",
+      "workspace_url": "sushma1998",
+      "id": 18
+    },
+    {
+      "firstName": "ronak",
+      "lastName": "patel",
+      "email": "ronak@gmail.com",
+      "password": "Ronak@123",
+      "workspace_url": "ronak11",
+      "id": 19
+    },
+    {
+      "firstName": "ronak",
+      "lastName": "ronak",
+      "email": "ronak@gmail.com",
+      "password": "Ronak123#",
+      "workspace_url": "123sdsfs",
+      "id": 20
+    },
+    {
+      "firstName": "clearn",
+      "lastName": "ronak",
+      "email": "ronak@gmali.co",
+      "password": "Ronak#123",
+      "workspace_url": "checking",
+      "id": 21
+    },
+    {
+      "firstName": "viral",
+      "lastName": "patel",
+      "email": "viral@gmail.com",
+      "password": "Satva1213#",
+      "workspace_url": "viral ",
+      "id": 22
+    },
+    {
+      "firstName": "test1",
+      "lastName": "tewst",
+      "email": "test@gmail.com",
+      "password": "Satva1213#",
+      "workspace_url": "viral1000",
+      "id": 23
+    },
+    {
+      "firstName": "dsfds",
+      "lastName": "dsf",
+      "email": "dsfdsf@dsf.hjk",
+      "password": "Sush1213#",
+      "workspace_url": "ggjg",
+      "id": 24
+    },
+    {
+      "firstName": "fddf",
+      "lastName": "df",
+      "email": "fdf@gmail.com",
+      "password": "Satva1213#",
+      "workspace_url": "dvfgv",
+      "id": 25
+    },
+    {
+      "firstName": "viral",
+      "lastName": "patel",
+      "email": "viral@gmail.com",
+      "password": "Satva1213#",
+      "workspace_url": "viral",
+      "id": 26
+    }
+  ],
+  "login": [
+    {
+      "email": "chirag94209@gmail.com",
+      "password": "Satva1213#"
+    }
+  ],
+  "workSpace": [
+    {
+      "id": 1,
+      "workspace_url": "imChiragGohel"
+    },
+    {
+      "id": 2,
+      "workspace_url": "sushma"
+    },
+    {
+      "id": 3,
+      "workspace_url": "tiwari"
+    },
+    {
+      "id": 4,
+      "workspace_url": "dfdsf"
+    },
+    {
+      "id": 5,
+      "workspace_url": "cdc"
+    },
+    {
+      "id": 6,
+      "workspace_url": "Test"
+    },
+    {
+      "id": 7,
+      "workspace_url": "test"
+    },
+    {
+      "id": 8,
+      "workspace_url": "test11"
+    },
+    {
+      "id": 9,
+      "workspace_url": "test33"
+    },
+    {
+      "id": 10,
+      "workspace_url": "ronak"
+    },
+    {
+      "id": 11,
+      "workspace_url": "sushma1213"
+    },
+    {
+      "id": 12,
+      "workspace_url": "sushma1998"
+    },
+    {
+      "id": 13,
+      "workspace_url": "ronak11"
+    },
+    {
+      "id": 14,
+      "workspace_url": "123sdsfs"
+    },
+    {
+      "id": 15,
+      "workspace_url": "checking"
+    },
+    {
+      "id": 16,
+      "workspace_url": "viral "
+    },
+    {
+      "id": 17,
+      "workspace_url": "viral1000"
+    },
+    {
+      "id": 18,
+      "workspace_url": "ggjg"
+    },
+    {
+      "id": 19,
+      "workspace_url": "dvfgv"
+    },
+    {
+      "id": 20,
+      "workspace_url": "viral"
+    }
+  ],
+  "inviteTeamMate": [
+    {
+      "id": 2,
+      "team": [
+        {
+          "id": 1,
+          "email": "chigs9420999999@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "team": [
+        [
+          {
+            "id": 1,
+            "email": "sadasd@desfsf.ghdfh"
+          },
+          {
+            "id": 2,
+            "email": null
+          }
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "team": [
+        [
+          {
+            "id": 1,
+            "email": "dcdc"
+          },
+          {
+            "id": 2,
+            "email": null
+          }
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "team": [
+        [
+          {
+            "id": 1,
+            "email": "test@test.com"
+          },
+          {
+            "id": 2,
+            "email": "test@test.com"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 17,
+      "team": [
+        [
+          {
+            "id": 1,
+            "email": "sushma@gmail.com"
+          },
+          {
+            "id": 2,
+            "email": null
+          },
+          {
+            "id": 3,
+            "email": null
+          },
+          {
+            "id": 4,
+            "email": null
+          }
+        ]
+      ]
+    }
+  ],
+  "bio": [
+    {
+      "id": 1,
+      "filePath": "",
+      "bioDetail": "Here i m!"
+    },
+    {
+      "id": 2,
+      "filePath": "C:\\fakepath\\download (1).jpg",
+      "bioDetail": "This shraddha kapoor."
+    },
+    {
+      "id": 3,
+      "filePath": "C:\\fakepath\\download.jpg",
+      "bioDetail": "QWqawqaweqwe"
+    },
+    {
+      "id": 4,
+      "filePath": "C:\\fakepath\\download.jpg",
+      "bioDetail": "xdcfsfdsf"
+    },
+    {
+      "id": 5,
+      "filePath": null,
+      "bioDetail": null
+    },
+    {
+      "id": 6,
+      "filePath": null,
+      "bioDetail": null
+    },
+    {
+      "id": 7,
+      "filePath": null,
+      "bioDetail": null
+    },
+    {
+      "id": 8,
+      "filePath": "C:\\fakepath\\download.jpg",
+      "bioDetail": "This is bio upload demo."
+    },
+    {
+      "id": 9,
+      "filePath": null,
+      "bioDetail": null
+    }
+  ]
+}
